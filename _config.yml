@@ -21,7 +21,8 @@ timezone:
 
 title: IF NEO                          # the main title
 
-tagline: THE MATRIX HAS YOU   # it will display as the sub-title
+tagline: >- # it will display as the sub-title
+    这是你最后的机会。这以后，你将没有机会回头。如果选择蓝色药丸，故事就此结束，你在自己床上醒来，继续相信你愿意相信的一切。如果你吃下红色药丸，你将留在奇境，我会让你看看兔子洞究竟有多深。
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -81,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
