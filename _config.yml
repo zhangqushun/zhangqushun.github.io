@@ -22,7 +22,7 @@ timezone:
 title: IF NEO                          # the main title
 
 tagline: >- # it will display as the sub-title
-    这是你最后的机会。这以后，你将没有机会回头。如果选择蓝色药丸，故事就此结束，你在自己床上醒来，继续相信你愿意相信的一切。如果你吃下红色药丸，你将留在奇境，我会让你看看兔子洞究竟有多深。
+    吃下蓝色药丸，故事就此结束，你在自己床上醒来，继续相信你愿意相信的一切。吃下红色药丸，你将留在奇境，我会让你看看兔子洞究竟有多深。
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -40,12 +40,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: ifneo
+  name: IF NEO
   email: what@ifneo.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/zhangqushun       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
